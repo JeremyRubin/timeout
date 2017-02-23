@@ -2,6 +2,10 @@
 name = "timeout"
 version = "0.1.0"
 authors = ["Jeremy Rubin <jeremy.l.rubin@gmail.com>"]
+license = "MPL-2.0"
+description = "A library for non-blocking randomized timeouts, e.g., for use in an event loop"
+repository = "https://github.com/jeremyrubin/timeout"
+
 
 [dependencies]
 rand = "*"
